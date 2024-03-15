@@ -16,6 +16,6 @@ E-Buy is an online shopping platform designed to provide a smart and user-friend
 - Analytics Dashboard: Admins can view analytics and insights such as active user, revenue, new 
   member joined and latest transactions made.
   
-# Technology Used
+## Technology Used
 - Front End : HTML, CSS, React.js
 - Back End : Node.js, MongoDB
